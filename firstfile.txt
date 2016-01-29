@@ -1,3 +1,0 @@
-Hello this is first line of my code.
-Adding some new code to create version one 
-third line added
